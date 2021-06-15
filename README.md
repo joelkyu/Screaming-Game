@@ -23,6 +23,8 @@ Robbie Zhuang
 Figma link: 
 https://www.figma.com/file/JGchGpu8oZ0rRRNzTW6DGg/Screamming-Gang-team-library?node-id=0%3A1
 
+Link to planning document [here](https://docs.google.com/document/d/1bFz0UaFxDP2-sm5lcFwE_ZPEBIN_SgiSdJ-xZCEBN20/edit?usp=sharing)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
